@@ -7,6 +7,9 @@ module.exports = {
         100: '34rem',
         112: '64rem',
       },
+      backgroundImage: {
+        'footer-bg': "url('/img/eduard-delputte-VrwZXLs_2_U-unsplash.jpg')",
+      },
     },
     screens: {
       sm: '480px',
